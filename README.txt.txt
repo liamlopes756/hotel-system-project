@@ -1,17 +1,16 @@
-🏨 Sistema de Recepção de Hotel — Simulação em C
-Este projeto é uma simulação de um sistema de recepção de hotel, desenvolvido em linguagem C como parte de um trabalho acadêmico da disciplina de Programação. O sistema visa representar as funcionalidades básicas de recepção, como check-in, check-out, cadastro de hóspedes e controle de quartos.
+🏨 Hotel Reception System — C Language Simulation
+This project is a simulation of a hotel reception system, developed in the C programming language as part of a university assignment for the Programming course. The system is designed to represent the basic functionalities of a hotel front desk, such as check-in, check-out, guest registration, and room management.
 
+📋 Features
+✅ Guest check-in
+🚪 Guest check-out
+🧾 Guest registration and listing
+🛏️ Room availability management
+🔍 Search for guests by name or room number
 
-📋 Funcionalidades
-✅ Check-in de hóspedes
-🚪 Check-out de hóspedes
-🧾 Cadastro e listagem de hóspedes
-🛏️ Controle de disponibilidade dos quartos
-🔍 Busca de hóspedes por nome ou número do quarto
+🛠️ Technologies Used
+C Language (C99 standard)
 
+Terminal/Console for user interaction
 
-🛠️ Tecnologias Utilizadas
-Linguagem C (padrão C99)
-Terminal/Console para interação com o usuário
-Obs: Certifique-se de ter o GCC instalado no seu sistema.
-
+Note: Make sure you have GCC installed on your system.
